@@ -1,5 +1,5 @@
 #! /usr/bin/python
-
+#Refer to: https://awsmedia.s3.amazonaws.com/SEC402.pdf
 # Example code to output account security config
 __author__ = 'Greg Roth'
 
