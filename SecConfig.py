@@ -1,5 +1,6 @@
 #! /usr/bin/python
-#Refer to: https://awsmedia.s3.amazonaws.com/SEC402.pdf
+# Refer to: https://awsmedia.s3.amazonaws.com/SEC402.pdf
+# https://docs.aws.amazon.com/general/latest/gr/aws-security-audit-guide.html
 # Example code to output account security config
 __author__ = 'Greg Roth'
 
