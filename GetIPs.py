@@ -1,7 +1,5 @@
 import boto3
 import random
-import argparse
-import os
 
 
 # Connect to EC2
